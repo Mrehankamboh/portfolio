@@ -8,3 +8,5 @@ _qa-*.cjs
 _fit-*.ps1
 .vscode/
 .idea/
+
+.vercel
