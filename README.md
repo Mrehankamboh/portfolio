@@ -2,7 +2,7 @@
 
 Frontend portfolio. I study a live marketing site and rebuild the layout, type, and motion in HTML, CSS, and JavaScript.
 
-**Live site:** https://portfolio-inky-theta-80.vercel.app
+**Live site:** https://rehankamboh.vercel.app/
 
 ## Sections
 
