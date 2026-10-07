@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+_probe-*.cjs
+_qa-*.cjs
+_fit-*.ps1
+.vscode/
+.idea/
