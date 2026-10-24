@@ -9,7 +9,7 @@ Frontend portfolio. I study a live marketing site and rebuild the layout, type, 
 - **Selected work** — six rebuilds: Cuberto, Shinta, Nuance, CK Capital, MyOS, and Forge of Traders
 - **Designing** — a 3D spoke carousel of social ads
 - **Daily stack** — scrolling row of tools I use
-- **Experience** and **How the work is done**
+- **Experience** and **About**
 - **Contact** — email, WhatsApp, LinkedIn, and GitHub
 - **Light and dark mode** from the navbar
 
