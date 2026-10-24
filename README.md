@@ -30,4 +30,4 @@ npx serve .
 - Email: muhammadrehankamboh10@gmail.com
 - Phone / WhatsApp: +92 328 0865468
 - LinkedIn: https://www.linkedin.com/in/muhammad-rehan-223225436/
-- GitHub: https://github.com/muhammadrehan-web
+- GitHub: https://github.com/Mrehankamboh
